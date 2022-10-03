@@ -28,5 +28,32 @@ Explanation 0
 
 5 + 4 = 9
 
+##Solution 
+
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+    float a, b;
+    scanf("%f%f", &a, &b);
+
+    long int c = a + b;
+
+    if (c < (a + b))
+
+        printf("%.2f", a + b);
+
+    else
+
+        printf("%ld", c);
+
+    return 0;
+}
+
 
 #Question 2 : 
