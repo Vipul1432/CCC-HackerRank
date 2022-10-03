@@ -30,10 +30,10 @@ Explanation 0
 
 ##Solution 
 
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
-#include <stdlib.h>
+#include <stdio.h><br>
+#include <string.h><br>
+#include <math.h><br>
+#include <stdlib.h><br>
 
 int main()
 {
