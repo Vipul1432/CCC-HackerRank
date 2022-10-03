@@ -141,7 +141,7 @@ Sample Output 0
 5
 Explanation 0
 
-Base : Number :
+Base : Number :<br>
 2 1100<br>
 3 110<br>
 4 30<br>
