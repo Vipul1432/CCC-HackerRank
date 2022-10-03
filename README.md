@@ -142,17 +142,17 @@ Sample Output 0
 Explanation 0
 
 Base : Number :
-2 1100
-3 110
-4 30
-5 22
-6 20
-7 15
-8 14
-9 13
-10 12
-11 11
-12 10
+2 1100<br>
+3 110<br>
+4 30<br>
+5 22<br>
+6 20<br>
+7 15<br>
+8 14<br>
+9 13<br>
+10 12<br>
+11 11<br>
+12 10<br>
 
 12 ends with a zero in 5 different number systems - 2,3,4,6 and 12. Hence the is 5  */
 
